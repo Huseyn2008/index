@@ -1,14 +1,46 @@
-@media (min-width: 320px) and (max-width: 480px) {
-       .text {
-          width: 300px;
-       }
+.col-md-6 {
+    width: 600px;
+}
 
-       .title {
-          font-size: 30px;
-       }
+.nav-link {
+    color: black;
+}
 
-       .card {
-        margin-top: 30px;
-       }
+.btn1 {
+    background-color: rgb(50, 135, 233);
+}
 
+.text {
+    color: rgb(50, 135, 233);
+    padding-top: 100px;
+}
+.title {
+    width: 350px;
+    padding-top: 85px;
+    color: rgba(94, 96, 99, 0.299);
+}
+
+.nav {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.container-fluid {
+    padding-left: 50px;
+}
+
+.btn1 {
+    border: none; 
+    color: white;
+    width: 155px;
+    padding: 10px;
+
+}
+
+.text1 {
+    padding-bottom: 30px;
+}
+.foto {
+   width: 700px;
+   margin-top: -10px;
 }
