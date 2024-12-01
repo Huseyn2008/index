@@ -1,0 +1,36 @@
+.dark {
+    background-color: rgb(19, 32, 54);
+    height: 1000px;
+}
+
+.big-yazi {
+    margin-left: 150px;
+    padding-top: 35%;
+    color: white !important;
+    
+}
+
+.yazi {
+    color: white;
+    margin-left: 150px;
+}
+
+.btn1 {
+    background-color: rgb(237, 22, 25);
+    color: white;
+    margin-left: 150px;
+    font-weight: bold;
+    padding: 6px;
+    border: none !important;
+}
+
+.btn2 {
+   margin-left: 5px;
+   font-weight: bold;
+   padding: 6px;
+   border: none !important;
+}
+
+.col-md-5 {
+    background-color: rgb(32, 119, 165);
+}
